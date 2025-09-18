@@ -1,2 +1,3 @@
 # test1
-this is my second repository
+This is my second repository.
+auther-own
